@@ -1,5 +1,5 @@
 # Badges
-[![Build Status](https://magnum.travis-ci.com/rainbowdash/Downloadr.svg?token=obG7J9zCFsGbkwgiDeJT)](https://magnum.travis-ci.com/rainbowdash/Downloadr)
+[![Build Status](https://travis-ci.com/rainbowdash/Node-Boilerplate.svg?token=obG7J9zCFsGbkwgiDeJT&branch=master)](https://travis-ci.com/rainbowdash/Node-Boilerplate)
 
 # Node-Boilerplate
 
